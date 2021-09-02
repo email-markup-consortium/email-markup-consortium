@@ -14,7 +14,6 @@ Once we have things more set up we are planning on cutting the weekly call back 
 
 [Notes from previous calls can be found here](https://github.com/email-standards/email-standards/tree/main/meeting-notes). Also there is an agenda at the top of the page for the next call. Please feel free to add items for discussion.
 
-
 There are no commitment expectations. You can take a very active role, or sit back, observe, and comment when you feel compelled.
 
 ## Setting yourself up
