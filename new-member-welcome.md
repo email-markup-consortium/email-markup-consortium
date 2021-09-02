@@ -8,6 +8,7 @@ We don’t have a leader or any hierarchy at the moment. As the group grows we m
 
 We will add a [code of conduct](https://github.com/email-standards/email-standards/issues/1) at some time but until that’s written please remember to be respectful of all members of the group and all opinions.
 
+## How we collaborate
 Currently we are discussing things in the [Email Standards Slack Channel](https://emailgeeks.slack.com/archives/C02C6TXA610) and on a weekly call on Tuesday at 5PM UK time (12 noon East Coast US / 9am West Coast US). [This link can help you convert to other timezones](https://www.inyourowntime.zone/2021-08-24_17.00_Europe.London?forget=1). (Be aware that clocks change in the UK on 31st October so the meeting time also changes then.)
 
 Once we have things more set up we are planning on cutting the weekly call back to a fortnightly or monthly call. We are also planning on a public forum to have more open discussion and allow more members of the community to share ideas. And a public website to publish our documentation.
