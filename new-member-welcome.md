@@ -1,4 +1,4 @@
-# Welcoming new new members
+# Welcoming new members
 
 Thanks a lot for joining the group. We’re still at the very early stages.
 
