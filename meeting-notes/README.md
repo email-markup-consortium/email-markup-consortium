@@ -8,4 +8,4 @@ Meeting notes for the [email standards group](https://github.com/email-standards
 * [2021-09-07](2021-09-07.md)
 * [2021-09-14](2021-09-14.md)
 * [2021-09-21](2021-09-21.md)
-* [2021-09-29](2021-09-29.md)
+* [2021-09-28](2021-09-28.md)
