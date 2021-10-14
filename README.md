@@ -2,6 +2,12 @@
 
 This is the public repository used for Email Markup Consortium planning and discussion.
 
+## Quick links
+
+- [Meeting notes](meeting-notes)
+- [New members guide](new-member-welcome.md)
+- [Glossary of terms](glossary.md)
+
 ## Slack
 
 The group is also gathering on the private #email-markup-consortium channel of the [Email Geeks Slack](https://email.geeks.chat/).
