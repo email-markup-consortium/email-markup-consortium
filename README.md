@@ -6,6 +6,7 @@ We are a group of industry professionals working to improve the user experience,
 
 ## Quick links
 
+- [Mission](mission.md)
 - [Meeting notes](meeting-notes)
 - [New members guide](new-member-welcome.md)
 - [Glossary of terms](glossary.md)
