@@ -1,0 +1,5 @@
+# Mission Statement
+
+The Email Markup Consortium (EMC) is a community-led group of industry professionals working to improve the email experience for everyone. Recipients should be able to easily access the content of every email sent to them, regardless of their device, email client, assistive technology or internet speed. The EMC collaborates with developers, creation and sending tools, and email clients to drive this vision forward at every step of the email journey.
+
+Senders, recipients, and email clients share the common goals of improving user experience, accessibility, performance, consistency, and reliability. However, currently there is a lack of cooperation in trying to achieve these goals leading to inconsistent results. By working together on agreed approaches we can save everyone time, effort and money and deliver better results to the recipients.

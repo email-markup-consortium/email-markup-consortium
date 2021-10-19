@@ -2,8 +2,11 @@
 
 This is the public repository used for Email Markup Consortium planning and discussion.
 
+We are a group of industry professionals working to improve the user experience, accessibility, performance, consistency, and reliability of email markup.
+
 ## Quick links
 
+- [Mission](mission.md)
 - [Meeting notes](meeting-notes)
 - [New members guide](new-member-welcome.md)
 - [Glossary of terms](glossary.md)
