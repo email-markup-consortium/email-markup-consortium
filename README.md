@@ -10,7 +10,7 @@ We are a group of industry professionals working to improve the user experience,
 - [Meeting notes](meeting-notes)
 - [New members guide](new-member-welcome.md)
 - [Glossary of terms](glossary.md)
-- [Code of Conduct](CODE_OF_CONDUCT.md)
+- [Code of Conduct](code-of-conduct.md)
 
 ## Slack
 

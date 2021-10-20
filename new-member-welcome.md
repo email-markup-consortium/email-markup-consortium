@@ -6,7 +6,7 @@ Our main goals are around finding ways to improve email client HTML rendering wi
 
 We don’t have a leader or any hierarchy at the moment. As the group grows we may need to have a little more structure. 
 
-Remember to be respectful of all members of the group and all opinions. Please see the [Code of Conduct](CODE_OF_CONDUCT.md).
+Remember to be respectful of all members of the group and all opinions. Please see the [Code of Conduct](code-of-conduct.md).
 
 ## How we collaborate
 Currently we are discussing things in the [Email Standards Slack Channel](https://emailgeeks.slack.com/archives/C02C6TXA610) and on a weekly call on Tuesday at 5PM UK time (12 noon East Coast US / 9am West Coast US). [This link can help you convert to other timezones](https://www.inyourowntime.zone/2021-08-24_17.00_Europe.London?forget=1). (Be aware that clocks change in the UK on 31st October so the meeting time also changes then.)
