@@ -12,3 +12,4 @@ Meeting notes for the [email standards group](https://github.com/email-standards
 * [2021-10-05](2021-10-05.md)
 * [2021-10-12](2021-10-12.md)
 * [2021-10-20](2021-10-20.md)
+* [2021-11-02](2021-11-02.md)
