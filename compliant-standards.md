@@ -10,7 +10,7 @@ This document is aimed at top level ideas of what the email markup should do, no
 
 ### 1.2 Who is this document for?
 
-This document is for anyone creating email markup, processing email markup, or displaying email markup. This includes (but isn’t limited to) email developers, email creation tools, email sending tools, and email clients.
+This document is for anyone creating [email markup](https://github.com/email-markup-consortium/email-markup-consortium/blob/main/glossary.md#:~:text=Email%20markup), processing email markup, or displaying email markup. This includes (but isn’t limited to) [email developers](https://github.com/email-markup-consortium/email-markup-consortium/blob/main/glossary.md#:~:text=Email%20developer), email creation tools, email sending tools, and [email clients](https://github.com/email-markup-consortium/email-markup-consortium/blob/main/glossary.md#:~:text=Email%20client).
 
 For this to work it will require developers to make improvements to the markup at the point of creation. As long as that markup is valid it should remain in a recognisable state with minimal changes through to the point the recipient opens the email. This means any processing of that markup by an ESP, mail server, email client or any other technology that touches it, should also follow the guidelines to preserve the standard.
 
@@ -22,13 +22,13 @@ Without this, there can be a stalemate in seeing progress in email markup. Sende
 
 ### 1.4 What this document is not
 
-This document is not a “how to” guide on how you can be compliant with these standards.
+* This document is not a “how to” guide on how you can be compliant with these standards.
 
-This document does not cover email design or content choices.
+* This document does not cover email design or content choices.
 
-This document does not cover email sending protocols.
+* This document does not cover email sending protocols.
 
-This document does not take into consideration current levels of markup support; these are targets to strive for.
+* This document does not take into consideration current levels of markup support; these are targets to strive for.
 
 ## 2. Accessibility
 
@@ -38,43 +38,51 @@ Accessibility is key to achieving our markup standards. When email markup is pro
 
 Email content should respond to fit the size of the container it is loaded in. A recipient should not have to scroll on more than one axis to see parts of the email, nor should content be cut off.
 
-> Content should adjust to fit the available space with fluid content or @media queries.
+#### Example
+Content should adjust to fit the available space with fluid content or @media queries.
 
 ### 2.2 Respect user preferences
 
 User preferences should be applied to any email they are viewing. These could potentially be set at the OS level, browser level, or email client level. They should inherit down through these layers into the email markup which should respect the user’s preference and be allowed to change the content accordingly.
 
-> Level 5 media queries can pass preferences like motion, colour schemes, transparency. We can also use rem units to pass prefered font size.
+#### Example
+Level 5 media queries can pass preferences like motion, colour schemes, transparency. We can also use rem units to pass prefered font size.
 
 ### 2.3 Make emails discoverable landmarks
 
 Assistive technology should be able to quickly and easily discover an email in a webmail page or app using landmark navigation.
 
-> Using a semantically appropriate landmark with a descriptive label, often this may be the same as the subject line.
+#### Example
+Using a semantically appropriate landmark with a descriptive label, often this may be the same as the subject line.
 
 ### 2.4 Make focus visible
 
 Keyboard focus should be visible at all times within the email content.
 
-> Either use default :focus or suitable custom styling.
+#### Example
+Either use default :focus or suitable custom styling.
 
 ### 2.5 Allow for content manipulation
 
 A recipient should be able to manipulate the content to a point to make it readable.
 
-> This can include zoom tools, style adjustment tools, and translation tools.
+#### Example
+This can include zoom tools, style adjustment tools, and translation tools.
 
 ### 2.6 Email markup should not conflict with email client semantics
 
 Email markup should work in a logical semantic structure without interfering with the email client structure.
 
-> Use logical heading structure. Avoid using a `<main>` landmark in the email content as this is likely to already include a <main> landmark.
+#### Example
+Use logical heading structure. Avoid using a `<main>` landmark in the email content as this is likely to already include a <main#### Example
+landmark.
 
 ### 2.7 Define a language
 
 Emails should define a language and language direction for the content. Any changes of language should also be defined in the markup.
 
-> Set lang and dir attributes
+#### Example
+Set lang and dir attributes
 
 ### 2.8 Follow WCAG standards
 
@@ -88,25 +96,29 @@ Markup should follow [Postel’s Law](https://en.wikipedia.org/wiki/Robustness_p
 
 All code should be within the [WHATWG HTML Standard](https://html.spec.whatwg.org/). Any use of non-standard code should follow the guidelines for [valid custom element names](https://html.spec.whatwg.org/multipage/custom-elements.html#valid-custom-element-name), [custom data-attributes](https://html.spec.whatwg.org/#embedding-custom-non-visible-data-with-the-data-*-attributes), etc.
 
-> Don’t make up custom elements, attributes, styles, etc. as it may interfere with future development of HTML.
+#### Example
+Don’t make up custom elements, attributes, styles, etc. as it may interfere with future development of HTML.
 
 ### 3.2 Don’t remove supported code
 
 Supported code should remain intact when unsupported code is removed from around or alongside it by a code sanitizer.
 
-> If invalid or unsupported code is removed, the code around it should remain unchanged. Gmail currently removes an entire style block for one mistake.
+#### Example
+If invalid or unsupported code is removed, the code around it should remain unchanged. Gmail currently removes an entire style block for one mistake.
 
 ### 3.3 Maintain structure when sanitising code
 
 Unsupported elements should keep their supported attributes and be replaced with a semantically neutral element or [valid custom element](https://html.spec.whatwg.org/multipage/custom-elements.html#valid-custom-element-name).
 
-> Replace `<main class="foo">` with `<div class="foo">`
+#### Example
+Replace `<main class="foo">` with `<div class="foo">`
 
 ### 3.4 Group code to fallback when not supported
 
 Code that is dependent on support of other code should be grouped in a way that it can fallback without showing broken partial support.
 
-> Issues can arise when `display: flex` is supported but not `flex-wrap`. We can use things like @supports targeting to help group these so they fallback cleanly.
+#### Example
+Issues can arise when `display: flex` is supported but not `flex-wrap`. We can use approaches such as @supports targeting to help group these so they fallback cleanly.
 
 ## 4. Performance
 
@@ -116,31 +128,36 @@ Email is a global format, and should be built for all. Some recipients may exper
 
 Emails should be able to display and perform all actions in a low bandwidth environment.
 
-> Keep external assets to a minimum file size.
+#### Example
+Keep external assets to a minimum file size.
 
 ### 4.2 Provide fallbacks for interrupted or low bandwidth connections
 
 When assets fail to load the content should still be consumable.
 
-> Fallback fonts, good alt text, [placeholder background colors](https://www.dev-diaries.com/social-posts/css-background-color-for-image/) behind solid images, or background images.
+#### Example
+Fallback fonts, good alt text, [placeholder background colors](https://www.dev-diaries.com/social-posts/css-background-color-for-image/) behind solid images, or background images.
 
 ### 4.3 Only download content that is used
 
 Unused hidden assets should not be downloaded.
 
-> Swapping images should be done with `<picture>` elements.
+#### Example
+Swapping images should be done with `<picture>` elements.
 
 ### 4.4 Use suitable formats for assets
 
 Assets should load using suitable formats with optimum compression.
 
-> Use AVIF, WebP, SVG in `<picture>` and/or `srcset`.
+#### Example
+Use AVIF, WebP, SVG in `<picture>` and/or `srcset`.
 
 ### 4.5 Provide low data content alternatives
 
 Alternate content should be provided when requested.
 
-> plain text version, use `prefers-reduced-data` query
+#### Example
+plain text version, use `prefers-reduced-data` query
 
   
 
