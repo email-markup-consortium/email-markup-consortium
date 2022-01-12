@@ -1,8 +1,9 @@
 # Meeting Notes
-Meeting notes for the [email standards group](https://github.com/email-standards)
+Meeting notes for [Email Markup Consortium](https://github.com/email-markup-consortium)
 
 [Google Doc for live notetaking here](https://docs.google.com/document/d/175o-lKCLjsUZxlbif0pIBreZBZ1Ifarc14Cb5rMyFqE/edit?usp=sharing)
 
+## 2021
 * [2021-08-24](2021-08-24.md) (first meeting)
 * [2021-08-31](2021-08-31.md)
 * [2021-09-07](2021-09-07.md)
@@ -15,3 +16,6 @@ Meeting notes for the [email standards group](https://github.com/email-standards
 * [2021-11-02](2021-11-02.md)
 * [2021-11-16](2021-11-16.md)
 * [2021-11-30](2021-11-30.md)
+
+## 2022
+* [2022-01-11](2022-01-11.md)
