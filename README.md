@@ -11,6 +11,7 @@ We are a group of industry professionals working to improve the user experience,
 - [New members guide](new-member-welcome.md)
 - [Glossary of terms](glossary.md)
 - [Code of Conduct](code-of-conduct.md)
+- [Roles and Responsibilities](roles-and-responsibilities.md)
 
 ## Slack
 
