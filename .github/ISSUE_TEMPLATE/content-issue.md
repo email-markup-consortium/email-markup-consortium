@@ -1,6 +1,6 @@
 ---
 name: Content Issue
-about: Only to be used when other templates don't cover the issue
+about: Flag, discuss or suggest an improvement for a content-related issue
 title: ''
 labels: content
 assignees: ''
