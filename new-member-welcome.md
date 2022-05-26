@@ -7,7 +7,7 @@ Thank you for joining the EMC. We hope you can help us in [our mission](mission.
 We aim to keep our discussions public whenever possible. This typically happens in the [Discussions](https://github.com/email-markup-consortium/email-markup-consortium/discussions) section of this repository which acts as our public forum.
 
 ### Chat
-We also chat on Slack in the [Email Geeks Slack community](https://email.geeks.chat/) in the #email-markup-consortium channel. If you are an approved member and still do not have access to this channel, please contact [EMC admins](admins@emailmarkup.org).
+We also chat on Slack in the [Email Geeks Slack community](https://email.geeks.chat/) in the #email-markup-consortium channel. If you are an approved member and still do not have access to this channel, please contact [EMC admins](mailto:admins@emailmarkup.org).
 
 ### Members Meetings
 A Members meeting takes place once a fortnight. You can subscribe to the [EMC Members Calendar](https://calendar.google.com/calendar/u/2?cid=YTUyY3E0ZnEwYTVhdXIyb3FqNG9sN29zaGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) to check the latest meeting times.
