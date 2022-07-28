@@ -6,10 +6,10 @@ We are a group of industry professionals working to improve the user experience,
 
 ## Quick links
 
-- [Mission](mission.md)
+- [Mission](https://emailmarkup.org/en/docs/mission/)
 - [Meeting notes](meeting-notes)
 - [New members guide](new-member-welcome.md)
-- [Glossary of terms](glossary.md)
+- [Glossary of terms](https://emailmarkup.org/en/docs/glossary/)
 - [Code of Conduct](code-of-conduct.md)
 - [Roles and Responsibilities](roles-and-responsibilities.md)
 

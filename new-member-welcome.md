@@ -1,6 +1,6 @@
 # Welcoming new members
 
-Thank you for joining the EMC. We hope you can help us in [our mission](mission.md). Remember to be respectful of all members of the group and all opinions. Please see the [Code of Conduct](code-of-conduct.md).
+Thank you for joining the EMC. We hope you can help us in [our mission](https://emailmarkup.org/en/docs/mission/). Remember to be respectful of all members of the group and all opinions. Please see the [Code of Conduct](code-of-conduct.md).
 
 ## How we collaborate
 ### Forum
