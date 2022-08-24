@@ -33,3 +33,4 @@ Meeting notes for [Email Markup Consortium](https://github.com/email-markup-cons
 * [2022-07-12](2022-07-12.md)
 * [2022-07-26](2022-07-26.md)
 * [2022-08-09](2022-08-09.md)
+* [2022-08-23](2022-08-23.md)
