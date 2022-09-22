@@ -19,9 +19,9 @@ Nominated admins are evaluated on a case-by-case basis, but they are generally e
 
 Must meet:
 
-* must be able to uphold the interests of the EMC above professional or personal interests
-* have a good understanding of what EMC is working towards and why
-* able to commit time to work on EMC for a minimum of 6 months
+* Must be able to uphold the interests of the EMC above professional or personal interests
+* Have a good understanding of what the EMC is working towards and why
+* Able to commit time to work on the EMC for a minimum of 6 months
 
 Generally should meet at least one of the following:
 
